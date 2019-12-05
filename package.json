@@ -18,5 +18,6 @@
   "homepage": "https://github.com/xcasluw/css-natours#readme",
   "devDependencies": {
     "node-sass": "^4.13.0"
-  }
+  },
+  "dependencies": {}
 }
